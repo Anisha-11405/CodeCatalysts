@@ -1,0 +1,22 @@
+    MINUTES OF MEETING
+
+    DATE / TIME : 16.11.2023 / 2:15 p.m.
+
+                                       CODE CATALYSTS
+
+        Discussion about creating e-commerce page to showcase some products of the client.
+
+Team leader       - Anisha 
+
+Developers        - Amarnath, Aksai Shree Ram : Developed the code to showcase three products such as a wired headphone, a neckband and a tws earphone of the       
+                                                client. Products with their images, prices and descriptions have been included accordingly using various css 
+                                                styles.
+
+Designers         - Amala Ithayan, Anirudh    : Designed the page needed for our page
+
+Business Analysts - Akash, Akash              : SRS completed.
+
+Tester            - Anbarasan                 : Yet to complete.
+
+
+
